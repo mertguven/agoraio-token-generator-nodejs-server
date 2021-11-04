@@ -1,6 +1,9 @@
 # AgoraIO Token Generator NodeJS Server
 This is a server that generates tokens in agoraio application.
 
+### example url
+[https://agoraio-token-generator.herokuapp.com](https://agoraio-token-generator.herokuapp.com/access_token?channelName=typeYourChannelName)
+
 # Generate the Token
 
 #### endpoint structure
